@@ -1,5 +1,7 @@
 # Bruins Meets Bruins
 
+My UCLA COM SCI 35L Full Stack Web Application Project:
+
 Bruin Meets Bruins is a client+server web application dedicated specifically towards UCLA students, with the purpose of making it easier for students to find meaningful connections with other Bruins based on shared interests and values. 
 Our platform focuses exclusively on the UCLA community to foster a more personalized and relevant experience, helping students connect with people who share their campus life, activities, and goals.
 
